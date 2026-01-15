@@ -1,0 +1,104 @@
+1. 26 files 
+
+2.      
+cat           
+echo          
+forktest    
+grep          
+init           
+kill         
+ln            
+ls            
+mkdir          
+rm           
+sh            
+stressfs      
+usertests      
+grind         
+wc            
+zombie        
+logstress      
+forphan        
+dorphan       
+console
+
+BONUS:
+take around 5 minutes
+usertests starting
+test copyin: OK
+test copyout: OK
+test copyinstr1: OK
+test copyinstr2: OK
+test copyinstr3: OK
+test rwsbrk: OK
+test truncate1: OK
+test truncate2: OK
+test truncate3: OK
+test openiput: OK
+test exitiput: OK
+test iput: OK
+test opentest: OK
+test writetest: OK
+test writebig: OK
+test createtest: OK
+test dirtest: OK
+test exectest: OK
+test pipe1: OK
+test killstatus: OK
+test preempt: kill... wait... OK
+test exitwait: OK
+test reparent: OK
+test twochildren: OK
+test forkfork: OK
+test forkforkfork: OK
+test reparent2: OK
+test mem: OK
+test sharedfd: OK
+test fourfiles: OK
+test createdelete: OK
+test unlinkread: OK
+test linktest: OK
+test concreate: OK
+test linkunlink: OK
+test subdir: OK
+test bigwrite: OK
+test bigfile: OK
+test fourteen: OK
+test rmdot: OK
+test dirfile: OK
+test iref: OK
+test forktest: OK
+test sbrkbasic: OK
+test sbrkmuch: OK
+test kernmem: OK
+test MAXVAplus: OK
+test sbrkfail: OK
+test sbrkarg: OK
+test validatetest: OK
+test bsstest: OK
+test bigargtest: OK
+test argptest: OK
+test stacktest: OK
+test nowrite: OK
+test pgbug: OK
+test sbrkbugs: OK
+test lazy_copy: OK
+test lazy_sbrk: OK
+usertests slow tests starting
+test bigdir: OK
+
+$ forktest
+exec forktest failed
+
+$ stressfs
+stressfs starting
+wriwrite 1te 0
+wrwite rite2
+ wri3
+te 4
+
+read
+read
+read
+read
+read

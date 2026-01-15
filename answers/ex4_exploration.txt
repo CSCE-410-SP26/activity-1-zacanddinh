@@ -1,0 +1,37 @@
+$ ls
+.              1 1 1024
+..             1 1 1024
+README         2 2 2627
+cat            2 3 36304
+echo           2 4 35152
+forktest       2 5 17128
+grep           2 6 39680
+init           2 7 35656
+kill           2 8 35096
+ln             2 9 34920
+ls             2 10 38264
+mkdir          2 11 35176
+rm             2 12 35160
+sh             2 13 57856
+stressfs       2 14 36040
+usertests      2 15 186328
+grind          2 16 51008
+wc             2 17 37256
+zombie         2 18 34536
+logstress      2 19 37016
+forphan        2 20 35928
+dorphan        2 21 35376
+console        3 22 0
+           2 23 0
+output.txt 24 9
+ex1_filesystem 2 25 696
+myfile.txt     2 26 17
+testdir        1 27 32
+
+$ cat README
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FS6dDysu)
+xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
+Version 6 (v6).  xv6 loosely follows the structure and style of v6,
+but is implemented for a modern RISC-V multiprocessor using ANSI C.
+
+ACKNOWLEDGMENTS ...
