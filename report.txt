@@ -1,0 +1,40 @@
+Repository: activity-1-zacanddinh
+============================================================
+Exercise 1 : ls -> display files (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 1 : creation of file with content (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 1 : display content  of file (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 1 : creation of directory (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 1 : ls  displays new file & directory (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 3 : creation of file with content (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 3 : modify the content of file (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 3 : display content  of file (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 3 : grep operation on file (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 3 : word count of file (8 points)
+Score: 8.0 / 8
+------------------------------------------------------------
+Exercise 4 : ls -> display files (10 points)
+Score: 10.0 / 10
+------------------------------------------------------------
+Exercise 4 : Read README file (10 points)
+Score: 10.0 / 10
+------------------------------------------------------------
+============================================================
+TOTAL SCORE: 100.0
